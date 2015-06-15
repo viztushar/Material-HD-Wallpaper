@@ -4,12 +4,12 @@
          {
             "id":"01",
             "name":"Gopal Varma",
-            "salary":"500000"
+            "salary":"abv"
          },
          {
             "id":"02",
             "name":"Sairamkrishna",
-            "salary":"500000"
+            "salary":"abc"
          }
          ] 
       }
