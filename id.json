@@ -1,15 +1,9 @@
 {
-         "Employee" :
-         [
-         {
-            "id":"01",
-            "name":"Gopal Varma",
-            "salary":"abv"
-         },
-         {
-            "id":"02",
-            "name":"Sairamkrishna",
-            "salary":"abc"
-         }
-         ] 
-      }
+"user": [
+{
+"id": "001",
+"name": "Raj Amal",
+"email": "raj.amalw@gmail.com"
+}
+]
+}
