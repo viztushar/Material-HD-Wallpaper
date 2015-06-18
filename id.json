@@ -114,5 +114,25 @@
 "thumbnail": "http://brainstrome.com/wp-content/uploads/2015/03/brainstrome.com-watch.jpg",
 "des": "raj.amalw@gmail.com"
 }
-  ]
+],
+"Philosophy":[
+{
+"id": "001",
+"title": "Raj Amal",
+"thumbnail": "http://brainstrome.com/wp-content/uploads/2015/06/watchos_2_white_sports.jpg",
+"des": "raj.amalw@gmail.com"
+},
+{
+"id": "002",
+"title": "Raj Amal",
+"thumbnail": "http://brainstrome.com/wp-content/uploads/2015/06/Desktop4.jpg",
+"des": "raj.amalw@gmail.com"
+},
+{
+"id": "003",
+"title": "Raj Amal",
+"thumbnail": "http://brainstrome.com/wp-content/uploads/2015/03/brainstrome.com-watch.jpg",
+"des": "raj.amalw@gmail.com"
+}
+]
 }
