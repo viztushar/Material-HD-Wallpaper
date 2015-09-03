@@ -1,288 +1,173 @@
-{ 
-"wallpapers": 
+{
+	"Wallpapers": 
 	[
 		{
 			"author": "Tushar parmar",
 			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_0.png",
+            "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_0.png",
 			"name": "Wallpaper"
 		},
 		{
 			"author": "Tushar parmar",
 			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_001.png",
+            "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_001.png",
 			"name": "Wallpaper 1"
 		},
 		{
 			"author": "Tushar parmar",
 			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_002.png",
+            "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_002.png",
 			"name": "Wallpaper 2"
 		},
 		{
 			"author": "Tushar parmar",
 			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_003.png",
+            "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_003.png",
 			"name": "Wallpaper 3"
 		},
 		{
 			"author": "Tushar parmar",
 			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_01.png",
+            "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_01.png",
 			"name": "Wallpaper 4"
 		},
 		{
 			"author": "Tushar parmar",
 			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_02.png",
+            "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_02.png",
 			"name": "Wallpaper 5"
 		},
 		{
 			"author": "Tushar parmar",
 			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_03.png",
+            "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_03.png",
 			"name": "Android"
 		},
 		{
 			"author": "Tushar parmar",
 			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_04.png",
+            "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_04.png",
 			"name": "Wallpaper 6"
 		},
 		{
 			"author": "Tushar parmar",
 			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_05.png",
+            "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_05.png",
 			"name": "Wallpaper 7"
 		},
 		{
 			"author": "Tushar parmar",
 			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_06.png",
+            "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_06.png",
 			"name": "Wallpaper 8"
 		},	
 		{
 			"author": "Tushar parmar",
 			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_15.png",
+            "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_15.png",
 			"name": "Android M"
 		},
 		{
 			"author": "Tushar parmar",
 			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_17.png",
+            "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_17.png",
 			"name": "Android M"
 		},
 		{
 			"author": "Tushar parmar",
 			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_16.png",
+            "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_16.png",
 			"name": "Iron Man"
 		},
 		{
 			"author": "Tushar parmar",
 			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_18.png",
+            "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_18.png",
 			"name": "Wallpaper 9"
 		},
 		{
 			"author": "Tushar parmar",
 			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_1.png",
+            "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_1.png",
 			"name": "Wallpaper 10"
 		},
 		{
 			"author": "Tushar parmar",
 			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_2.png",
+            "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_2.png",
 			"name": "Wallpaper 11"
 		},
 		{
 			"author": "Tushar parmar",
 			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_3.png",
+            "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_3.png",
 			"name": "Wallpaper 12"
 		},
 		{
 			"author": "Tushar parmar",
 			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_4.png",
+            "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_4.png",
 			"name": "Wallpaper 13"
 		},
 		{
 			"author": "Tushar parmar",
 			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_5.png",
+            "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_5.png",
 			"name": "Wallpaper 14"
 		},
 		{
 			"author": "Tushar parmar",
 			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/wall_6.png",
+            "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/wall_6.png",
 			"name": "Wallpaper 15"
 		},
 		{
 			"author": "Tushar parmar",
 			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_7.png",
+            "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_7.png",
 			"name": "Wallpaper 16"
 		},
 		{
 			"author": "Tushar parmar",
 			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_8.png",
+            "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_8.png",
 			"name": "Wallpaper 17"
 		},
 		{
 			"author": "Tushar parmar",
 			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_9.png",
+            "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_9.png",
 			"name": "Wallpaper 18"
 		},
 		{
 			"author": "Tushar parmar",
 			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_10.png",
+            "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_10.png",
 			"name": "Wallpaper 19"
 		},
 		{
 			"author": "Tushar parmar",
 			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_11.png",
+            "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_11.png",
 			"name": "Wallpaper 20"
 		},
 		{
 			"author": "Tushar parmar",
 			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_12.png",
+            "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_12.png",
 			"name": "Wallpaper 21"
 		},
 		{
 			"author": "Tushar parmar",
 			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_13.png",
+            "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_13.png",
 			"name": "Wallpaper 22"
 		},
 		{
 			"author": "Tushar parmar",
 			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_14.png",
-			"name": "Wallpaper 23"
-		}
-	],
-	"flat": 
-	[
-		{
-			"author": "Tushar parmar",
-			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_0.png",
-			"name": "Wallpaper"
-		},
-		{
-			"author": "Tushar parmar",
-			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_001.png",
-			"name": "Wallpaper 1"
-		},
-		{
-			"author": "Tushar parmar",
-			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_002.png",
-			"name": "Wallpaper 2"
-		},
-		{
-			"author": "Tushar parmar",
-			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_003.png",
-			"name": "Wallpaper 3"
-		},
-		{
-			"author": "Tushar parmar",
-			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_01.png",
-			"name": "Wallpaper 4"
-		},
-		{
-			"author": "Tushar parmar",
-			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_02.png",
-			"name": "Wallpaper 5"
-		},
-		{
-			"author": "Tushar parmar",
-			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_03.png",
-			"name": "Android"
-		},
-		{
-			"author": "Tushar parmar",
-			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_04.png",
-			"name": "Wallpaper 6"
-		},
-		{
-			"author": "Tushar parmar",
-			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_05.png",
-			"name": "Wallpaper 7"
-		},
-		{
-			"author": "Tushar parmar",
-			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_06.png",
-			"name": "Wallpaper 8"
-		},	
-		{
-			"author": "Tushar parmar",
-			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_15.png",
-			"name": "Android M"
-		},
-		{
-			"author": "Tushar parmar",
-			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_17.png",
-			"name": "Android M"
-		},
-		{
-			"author": "Tushar parmar",
-			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_16.png",
-			"name": "Iron Man"
-		},
-		{
-			"author": "Tushar parmar",
-			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_18.png",
-			"name": "Wallpaper 9"
-		},
-		{
-			"author": "Tushar parmar",
-			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_1.png",
-			"name": "Wallpaper 10"
-		},
-		{
-			"author": "Tushar parmar",
-			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_2.png",
-			"name": "Wallpaper 11"
-		},
-		{
-			"author": "Tushar parmar",
-			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_3.png",
-			"name": "Wallpaper 12"
-		},
-		{
-			"author": "Tushar parmar",
-			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_4.png",
-			"name": "Wallpaper 13"
-		},
-		{
-			"author": "Tushar parmar",
-			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_5.png",
-			"name": "Wallpaper 14"
-		},
-		{
-			"author": "Tushar parmar",
-			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/wall_6.png",
-			"name": "Wallpaper 15"
-		},
-		{
-			"author": "Tushar parmar",
-			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_7.png",
-			"name": "Wallpaper 16"
-		},
-		{
-			"author": "Tushar parmar",
-			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_8.png",
-			"name": "Wallpaper 17"
-		},
-		{
-			"author": "Tushar parmar",
-			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_9.png",
-			"name": "Wallpaper 18"
-		},
-		{
-			"author": "Tushar parmar",
-			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_10.png",
-			"name": "Wallpaper 19"
-		},
-		{
-			"author": "Tushar parmar",
-			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_11.png",
-			"name": "Wallpaper 20"
-		},
-		{
-			"author": "Tushar parmar",
-			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_12.png",
-			"name": "Wallpaper 21"
-		},
-		{
-			"author": "Tushar parmar",
-			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_13.png",
-			"name": "Wallpaper 22"
-		},
-		{
-			"author": "Tushar parmar",
-			"url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_14.png",
+            "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/wall_platy/wall_14.png",
 			"name": "Wallpaper 23"
 		}
 	]
-}
+ }
