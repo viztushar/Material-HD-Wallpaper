@@ -134,12 +134,12 @@
 			{
 				"author": "David Astorga",
 				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/stripesplants.png",
-				"name": "Stripes Plants"
+				"name": "Stripes Plants
 			},
 			{
 				"author": "David Astorga",
 				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/stripespurple.png",
-				"name": "Stripes Purple"
+				"name": "Stripes Purple
 			},
 			{
 				"author": "David Astorga",
@@ -301,5 +301,413 @@
 				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/games33.png",
 				"name": "Control 3"
 			}			
+		],
+		
+	"Shapes": 
+		[
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/polarcircles.png",
+				"name": "Polar Circles"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/hexagons.png",
+				"name": "Hexagons"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/iglwhite.png",
+				"name": "IGL"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/circlesstream.png",
+				"name": "Circles Stream"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/igldark.png",
+				"name": "IGL Dark"
+			},
+			{	
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/blossom.png",
+				"name": "Blossom"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/circles.png",
+				"name": "Circles"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/Mat1.png",
+				"name": "Material Shape"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/mat2.png",
+				"name": "Material Shape 2"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/fonot3566.png",
+				"name": "Rombos"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/circulospolares2.png",
+				"name": "Polar Circles 2"
+			}
+		],
+		
+	"Patterns": 
+		[
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/motoxplay.png",
+				"name": "Moto X Play"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/dientes.png",
+				"name": "Dientes"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/dientesdark.png",
+				"name": "Dientes Dark"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/greenstripes.png",
+				"name": "Green Stripes"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/redflower.png",
+				"name": "Red Flower"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/orangewaves.png",
+				"name": "Orange Waves"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/greenwaves.png",
+				"name": "Green Waves"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/bluewaves.png",
+				"name": "Blue Waves"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/chinesewaves.png",
+				"name": "Green Chinese Waves"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/redchinesewaves.png",
+				"name": "Red Chinese Waves"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/purplecrystal.png",
+				"name": "Purple Crystals"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/crystals.png",
+				"name": "Crystals"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/hexagonsyellow.png",
+				"name": "Hexagons Yellow"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/hexagonsgreen.png",
+				"name": "Hexagons Green"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/stripeswater.png",
+				"name": "Stripes Water"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/stripesplants.png",
+				"name": "Stripes Plants
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/stripespurple.png",
+				"name": "Stripes Purple
+			}
+		],
+		
+	"Nature": 
+		[
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/cover1.png",
+				"name": "Premium Free"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/roadday.png,
+				"name": "Road Day"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/roadnight.png,
+				"name": "Road Night"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/space2.png",
+				"name": "Planet"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/dawn.png",
+				"name": "dawn"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/moon.png",
+				"name": "Moon"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/dusk.png",
+				"name": "dusk"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/fire.png",
+				"name": "Fire"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/sea.png",
+				"name": "sea"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/spaceship.png",
+				"name": "spaceship"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/planets.png",
+				"name": "planets"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/desert.png",
+				"name": "desert"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/camping.png",
+				"name": "Camping"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/campingnoon.png",
+				"name": "Camping Noon"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/sunrise.png",
+				"name": "Sunrise"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/antartica.png",
+				"name": "Antartica"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/townnight.png",
+				"name": "Sunrise_town"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/townnightreal.png",
+				"name": "Night_town"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/space.png",
+				"name": "space"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/paperpark.png",
+				"name": "paperpark"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/fullmoon.png",
+				"name": "full moon"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/mountainscasttle2.png",
+				"name": "Mountains"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/mountain%20castle.png",
+				"name": "Mountain Casttle"
+			}
+		],
+	"Gaming": 
+		[
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/minion.png",
+				"name": "Minion"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/red.png",
+				"name": "Red"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/piggy1.png",
+				"name": "piggy"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/dragonball.png",
+				"name": "Dragon Ball"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/chuck.png",
+				"name": "Chuck"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/piggy2.png",
+				"name": "piggy 2"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/games11.png",
+				"name": "Control 1"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/games11.png",
+				"name": "Control 1"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/games22.png",
+				"name": "Control 2"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/games33.png",
+				"name": "Control 3"
+			}						
+		],
+        "Latest":
+
+	[
+			
+
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/Mat1.png",
+				"name": "Material Shape"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/mat2.png",
+				"name": "Material Shape 2"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/fonot3566.png",
+				"name": "Rombos"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/circulospolares2.png",
+				"name": "Polar Circles 2"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/stripeswater.png",
+				"name": "Stripes Water"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/stripesplants.png",
+				"name": "Stripes Plants
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/stripespurple.png",
+				"name": "Stripes Purple"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/cover1.png",
+				"name": "Premium Free"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/roadday.png",
+				"name": "Road Day"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/roadnight.png",
+				"name": "Road Night"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/mountainscasttle2.png",
+				"name": "Mountains"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/mountain%20castle.png",
+				"name": "Mountain Casttle"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/campingnoon.png",
+				"name": "Camping Noon"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/games11.png",
+				"name": "Control 1"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/games22.png",
+				"name": "Control 2"
+			},
+			{
+				"author": "David Astorga",
+				"url": "https://raw.githubusercontent.com/Dvz12/IGLFONDOS/master/games33.png",
+				"name": "Control 3"
+			}			
+					
 		]
 }
+	
