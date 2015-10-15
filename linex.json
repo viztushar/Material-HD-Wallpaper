@@ -1,0 +1,22 @@
+{
+  "walls": [
+    {
+      "author": "Sajid Shaik",
+      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/01.png",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image414852.png",
+      "name": "Wallpaper 1"
+    },
+    {
+      "author": "Sajid Shaik",
+      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/02.png",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image414853.png",
+      "name": "Wallpaper 2"
+    },
+    {
+      "author": "Sajid Shaik",
+      "url": "http://www.viztushar.com/wp-content/uploads/2015/10/03.png",
+      "thumb": "http://www.makeathumbnail.com/thumbnails/image414854.png",
+      "name": "Wallpaper 3"
+	}
+    ]
+}
