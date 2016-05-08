@@ -1,70 +1,82 @@
 {
   "Wallpapers": [
     {
-      "author": "Someon",
-      "url": "http://viztushar.com/wall/1.png",
-      "thumbUrl": "http://viztushar.com/wall/1.png",
-      "name": "Wallpaper 1"
+      "author": "Tushar Parmar",
+      "url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/wallpaper_viztushar.png",
+      "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/wallpaper_viztushar_thum.png",
+      "name": "Little World"
     },
     {
       "author": "Someone",
-      "url": "http://viztushar.com/wall/2.png",
-      "thumbUrl": "http://viztushar.com/wall/2.png",
+      "url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/2.png",
+      "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/2.png",
+      "name": "#code"
+    },
+    {
+      "author": "Someone",
+      "url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/3.png",
+      "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/3.png",
+      "name": "#love"
+    },
+    {
+      "author": "Erol",
+      "url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/erol.png",
+      "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/erol_thum.png",
+      "name": "Wallpaper 1"
+    },
+    {
+      "author": "Joseph Barrientos",
+      "url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/joseph_barrientos.png",
+      "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/joseph_barrientos_thum.png",
       "name": "Wallpaper 2"
     },
     {
       "author": "Someone",
-      "url": "http://viztushar.com/wall/3.png",
-      "thumbUrl": "http://viztushar.com/wall/3.png",
+      "url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/6.png",
+      "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/6.png",
       "name": "Wallpaper 3"
     },
     {
       "author": "Someone",
-      "url": "http://viztushar.com/wall/4.png",
-      "thumbUrl": "http://viztushar.com/wall/4.png",
+      "url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/7.png",
+      "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/7.png",
       "name": "Wallpaper 4"
     },
     {
       "author": "Someone",
-      "url": "http://viztushar.com/wall/5.png",
-      "thumbUrl": "http://viztushar.com/wall/5.png",
+      "url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/8.png",
+      "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/8.png",
       "name": "Wallpaper 5"
     },
     {
       "author": "Someone",
-      "url": "http://viztushar.com/wall/6.png",
-      "thumbUrl": "http://viztushar.com/wall/6.png",
+      "url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/9.png",
+      "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/9.png",
       "name": "Wallpaper 6"
     },
     {
       "author": "Someone",
-      "url": "http://viztushar.com/wall/7.png",
-      "thumbUrl": "http://viztushar.com/wall/7.png",
+      "url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/10.png",
+      "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/10.png",
       "name": "Wallpaper 7"
     },
     {
       "author": "Someone",
-      "url": "http://viztushar.com/wall/8.png",
-      "thumbUrl": "http://viztushar.com/wall/8.png",
+      "url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/1.png",
+      "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/11.png",
       "name": "Wallpaper 8"
     },
     {
       "author": "Someone",
-      "url": "http://viztushar.com/wall/9.png",
-      "thumbUrl": "http://viztushar.com/wall/9.png",
+      "url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/1.png",
+      "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/11.png",
       "name": "Wallpaper 9"
     },
     {
       "author": "Someone",
-      "url": "http://viztushar.com/wall/10.png",
-      "thumbUrl": "http://viztushar.com/wall/10.png",
+      "url": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/1.png",
+      "thumbUrl": "https://raw.githubusercontent.com/viztushar/Material-HD-Wallpaper/master/Wallpaper/11.png",
       "name": "Wallpaper 10"
-    },
-    {
-      "author": "Someone",
-      "url": "http://viztushar.com/wall/11.png",
-      "thumbUrl": "http://viztushar.com/wall/11.png",
-      "name": "Wallpaper 11"
     }
   ]
 }
